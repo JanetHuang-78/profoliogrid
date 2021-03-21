@@ -1,0 +1,12 @@
+body{
+    background-color: darkgray;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+.port-form:hover{
+    opacity: 0.85;
+    cursor: pointer;
+}
